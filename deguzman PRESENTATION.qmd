@@ -1,0 +1,52 @@
+---
+title: "MEASURE OF CENTRAL TENDENCY"
+subtitle: "Presentation"
+author: "Edlyn Bel D. De Guzman"
+format: beamer
+aspectratio: 32
+navigation: horizontal
+theme: Madrid
+colortheme: lily
+editor: visual
+---
+
+# `DEFINITION`
+
+$$ Measure\ of\ central\ tendency$$  -- It is a single value that attempts to describe a set of data by identifying the central position within that set of data.
+
+ -- Sometimes called ***measures of central location***.
+
+ -- The term central tendency refers to the middle, or typical, value of a set of data, which is most commonly measured by using the three m's: mean, median, and mode which are known as the measures of central tendency.
+
+# `MEAN (Arithmetic)`
+
+Mean is the most commonly used measure of central tendency. It actually represents the average of the given collection of data. It is applicable for both continuous and discrete data.
+
+`FORMULA:`  $x̄= \frac {\sum x }{n}$
+
+*Example:*  $Kalief's \ scores\  on \ his \ four\  History \ tests\  were\  80\ , 85\ , 88\  and\  95.$ $n = 4$\
+ Solution: $$x̄=  \frac {80+85+88+95 }{4}$$ $$x̄=\frac{348}{4}$$ $$\ Mean\ x\ =\ 87$$
+
+NOTE : The mean is the only measure of central tendency where the sum of the deviations of each value from the mean is always zero.
+
+# `MEDIAN`
+
+ *Generally median represents the mid-value of the given set of data when arranged in a particular order.*  *The median for an odd number of data values is the value that divides the data into two halves.* $$MD = \frac {\ n+1}{2}$$
+
+***Example:***  $$65\ \     55\ \   89\ \   56\ \   35\ \   14\ \   56\ \   55\ \   87\ \   45\ \   92$$ First rearrange the data into order of magnitude (smallest first): $$\ \ 14\ \ 35 \   \    45\ \   55\ \   55\ \   56\ \   56\ \   65\ \   87\ \   89  \  \    92$$ The median mark is the middle mark which is ***56***. 
+
+# `MODE`
+
+*The mode is the most frequent score in our data set. On a histogram it represents the highest bar in a bar chart or histogram. Sometimes consider the mode as being the most popular option.*
+
+![figur 1](Mode.png){width="200"} ![figure 2](Bus.png){width="250"}
+
+# `SUMMARY OF WHEN TO USE MEAN, MEDIAN, AND MODE`
+
+*The three averages are:*
+
+\ The *"mean" is the "average"* you're used to, where you add up all the numbers and then divide by the number of numbers.
+
+\ The *"median" is the "middle"* value in the list of numbers. To find the median, your numbers have to be listed in numerical order from smallest to largest, so you may have to rewrite your list before you can find the median.
+
+\ The *"mode"* is the value that occurs most often. If no number in the list is repeated, then there is no mode for the list.
